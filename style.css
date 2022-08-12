@@ -25,7 +25,7 @@ body {
 @media screen and (max-width: 425px) {
    body {
       background: url(../images/bg-pattern-top-mobile.svg) no-repeat left 0% top 0%, 
-      url(../images/bg-pattern-bottom-mobile.svg) no-repeat right 0% bottom 0%;
+      url(../images/bg-pattern-bottom-mobile.svg) no-repeat left 0% bottom 0%;
    }
 }
 
